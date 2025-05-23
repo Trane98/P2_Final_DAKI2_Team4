@@ -1,0 +1,8 @@
+pandas>=2.2.1
+geopandas>=0.14.3
+shapely>=2.0.3
+haversine>=2.8.1
+numpy>=1.26.4
+xgboost>=2.0.3
+scikit-learn>=1.4.2
+joblib>=1.4.2
